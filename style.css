@@ -156,17 +156,6 @@ h2 {
   font-size: 14px;
 }
 
-.source-note {
-  margin: 28px 0 0;
-  color: #818d7e;
-  font-size: 12px;
-  text-align: center;
-}
-
-.source-note a {
-  text-underline-offset: 3px;
-}
-
 footer {
   margin-top: 84px;
   padding: 34px 20px;
